@@ -22,7 +22,5 @@ public class payrollCalcuator {
         System.out.println("You Work for: " + workHour + " With the PayRate of: " + payRate + " Your Gross Pay will be: " + grossPay);
 
 
-
-
     }
 }
